@@ -2,6 +2,18 @@
 I’m a Computer Science & Engineering graduate of 2020 batch. I come with an extensive experience of working with different technologies including Web Development, Data Science, Machine Learning and Deep Learning.
 
 Currently, I am looking for a full-time role in Data Science, Machine Learning or related field.
+
+###Things I'm good at 🔥
+Languages: Python, JavaScript, SQL, HTML, CSS.
+
+Framework: Flask, Django, React, Bootstrap.
+
+Libraries & Tools: Lambda Functions, NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib, , Tensorflow , NLTK.
+
+#### Algorithms in which I am good : 
+CNN, RNN, LSTM, BERT, Linear Regression, Losgistic Regression, SVM, Decision Tree, Random Forest, Gradient Boosting.
+
+Data Analysis: Exploratory Data Analysis, Natural Language Processing, Image Processing, Ensemble Methods, Strong Statistical Foundation, Model Development & Evaluation Metrics, Data Wrangling, Data Visualization, Data Warehousing, Quantitative Methods, Google Analytics.
 <!--
 **Ashutoshpython123/Ashutoshpython123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
