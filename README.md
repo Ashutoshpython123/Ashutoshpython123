@@ -13,7 +13,7 @@ Libraries & Tools: Lambda Functions, NumPy, Pandas, Scikit-Learn, SciPy, Matplot
 #### Algorithms in which I am good : 
 CNN, RNN, LSTM, BERT, Linear Regression, Losgistic Regression, SVM, Decision Tree, Random Forest, Gradient Boosting.
 
-Data Analysis: Exploratory Data Analysis, Natural Language Processing, Image Processing, Ensemble Methods, Strong Statistical Foundation, Model Development & Evaluation Metrics, Data Wrangling, Data Visualization, Data Warehousing, Quantitative Methods, Google Analytics.
+Data Analysis: Exploratory Data Analysis, Natural Language Processing, Image Processing, Ensemble Methods, Strong Statistical Foundation, Model Development & Evaluation Metrics, Data Visualization.
 <!--
 **Ashutoshpython123/Ashutoshpython123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
