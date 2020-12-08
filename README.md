@@ -6,7 +6,7 @@ Currently, I am looking for a full-time role in Data Science, Machine Learning o
 #### Things I'm good at 🔥
 Languages: Python, JavaScript, SQL, HTML, CSS.
 
-Framework: Flask, Django, React, Bootstrap.
+Framework: Flask, Django, Bootstrap.
 
 Libraries & Tools: Lambda Functions, NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib, , Tensorflow , NLTK.
 
