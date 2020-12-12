@@ -8,7 +8,7 @@ Languages: Python, JavaScript, SQL, HTML, CSS.
 
 Framework: Flask, Django, Bootstrap.
 
-Libraries & Tools: Lambda Functions, NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib, , Tensorflow , NLTK.
+Libraries & Tools: Lambda Functions, NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib, , Tensorflow , NLTK, Docker, Kubernets, Power-Bi.
 
 #### Algorithms in which I am good : 
 CNN, RNN, LSTM, BERT, Linear Regression, Losgistic Regression, SVM, Decision Tree, Random Forest, Gradient Boosting.
