@@ -4,9 +4,9 @@ I’m a Computer Science & Engineering graduate of 2020 batch. I come with an ex
 Currently, I am looking for a full-time role in Data Science, Machine Learning or related field.
 
 #### Things I'm good at 🔥
-Languages: Python, JavaScript, SQL, HTML, CSS.
+Languages: Python, JavaScript
 
-Framework: Flask, Django, Bootstrap.
+Framework: React js, Flask, Django, SQL, HTML, CSS, Bootstrap.
 
 Libraries & Tools: Lambda Functions, NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib, , Tensorflow , NLTK, Docker, Kubernets, Power-Bi.
 
