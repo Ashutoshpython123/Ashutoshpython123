@@ -1,10 +1,10 @@
 ### Hi there 👋
-I’m a Computer Science & Engineering graduate of 2020 batch. I come with an extensive experience of working with different technologies including Web Development, Data Science, Machine Learning and Deep Learning.
+I’m a Computer Science & Engineering graduate of 2020 batch. I come with an extensive experience of working with different technologies including Web Development, Blockchain, NFT, Data Science, Machine Learning and Deep Learning.
 
 Currently, I am looking for a full-time role in Data Science, Machine Learning or related field.
 
 #### Things I'm good at 🔥
-Languages: Python, JavaScript, sql
+Languages: Python, JavaScript, solidity, sql,
 Programming skills : Datastructure and Algorithm, Regular expression.
 Database : mysql, mongodb, firebase.
 
