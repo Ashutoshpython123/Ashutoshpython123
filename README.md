@@ -6,7 +6,7 @@ Languages: Python, JavaScript, solidity, rust,
 Programming skills : Datastructure and Algorithm, Regular expression.
 Database : mysql, mongodb.
 
-Libraries & Framework: Node.js, Nest.js, Express.js, Next.js, React js, web3, socket.io, SQL, HTML, CSS, Bootstrap, tailwind.
+Libraries & Framework: Node.js, Nest.js, Express.js, Next.js, React js, web3, socket.io, React Native, GraphQL, SQL, HTML, CSS, Bootstrap, tailwind.
 
 <!--
 **Ashutoshpython123/Ashutoshpython123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
