@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I am a Full Stack  and a Blockchain Developer. A huge AI enthusiast 👋
 I’m a Computer Science & Engineering graduate of 2020 batch. I come with an extensive experience of working with different technologies including Web Development, Blockchain, NFT, Data Science and Machine Learning.
 
 #### Things I'm good at 🔥
