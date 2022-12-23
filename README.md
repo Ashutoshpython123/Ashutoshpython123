@@ -74,7 +74,7 @@ Here are some ideas to get you started:
     />
   </a>
 
-- #### 🌱 I’m currently exploring **Deep Neural Networks**.
+- #### 🌱 I’m currently exploring **Hyperledger Fabric**.
 - #### 👯 I’m looking to collaborate on *Open Source Projects*
 - #### 💬 I am fast to respond and would love to grow my network.
 - #### 📫 How to reach me: You can DM me on [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sudip-banerjee-300b691bb/)
@@ -83,9 +83,6 @@ Here are some ideas to get you started:
 - #### ⚡ Favorite Anime: Steins;Gate
 
 </div>
-
-### 🎺 Vibing to:
-[![Spotify](https://novatorem-rbkjoiojv-sudip5banerjee1974-gmailcom.vercel.app/api/spotify)](https://open.spotify.com/user/7jctaapw9v95ifztxup8twk6c)
 
 ***
 ### 🛠️ Languages and Tools :
@@ -130,22 +127,6 @@ Here are some ideas to get you started:
  <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" title="Pytorch"  alt="Pytorch" width="40" height="40"/>&nbsp;
  
 </div>
-
-***
-
-### 🔥 My Github Stats :
-
-
-. | .
-:---: | :---: 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=metal-oopa&theme=cobalt&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=DD0000&ring=DD2727&currStreakNum=00DD3DC2&background=000000)](#!) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=metal-oopa&layout=compact&theme=vision-friendly-dark&hide_border=true)](#!)
-
-<div id="github_stats" align="center">
-
-[![Sudip's GitHub stats](https://github-readme-stats.vercel.app/api?username=metal-oopa&count_private=true&show_icons=true&theme=radical&hide_border=true)](#!)
-
-[![Sudip's github activity graph](https://github-activity-graph-oopa.herokuapp.com/graph?username=metal-oopa&theme=redical&hide_border=true)](#!)
-
 
 </div>
 
