@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <!--   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> -->
  
   <div id="badges">
-   <a href="https://www.linkedin.com/in/sudip-banerjee-300b691bb/" target="_blank">
+   <a href="https://www.linkedin.com/in/ashutosh-kumar-1363b0162/" target="_blank">
      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
    </a>
    
@@ -76,7 +76,7 @@ Here are some ideas to get you started:
 - #### 🌱 I’m currently exploring **Hyperledger Fabric**.
 - #### 👯 I’m looking to collaborate on *Open Source Projects*
 - #### 💬 I am fast to respond and would love to grow my network.
-- #### 📫 How to reach me: You can DM me on [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sudip-banerjee-300b691bb/)
+- #### 📫 How to reach me: You can DM me on [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ashutosh-kumar-1363b0162)
 - #### 🏢 *Open to opportunities*
 - #### 😄 Pronouns: He/Him
 - #### ⚡ Favorite Anime: Steins;Gate
