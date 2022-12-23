@@ -1,4 +1,4 @@
-### Hi there, I am a Full Stack  and a Blockchain Developer. A huge AI enthusiast 👋
+### Hi there 👋
 I’m a Computer Science & Engineering graduate of 2020 batch. I come with an extensive experience of working with different technologies including Web Development, Blockchain, NFT, Data Science and Machine Learning.
 
 #### Things I'm good at 🔥
@@ -66,13 +66,7 @@ Here are some ideas to get you started:
 
 ###  👨🏻‍💻 About Me :
 
- <a href="https://api.daily.dev/devcards/5449f707a24746e2ad4976e4dc6da839.png?r=9eo" target="_blank">
-    <img
-      width="320"
-      align="right"
-      src="https://raw.githubusercontent.com/metal-oopa/metal-oopa/main/devcard.svg"
-    />
-  </a>
+ 
 
 - #### 🌱 I’m currently exploring **Hyperledger Fabric**.
 - #### 👯 I’m looking to collaborate on *Open Source Projects*
