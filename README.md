@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 *Commit via github.dev
  -->
  
-<div id="header" align="center">
+<div align="center">
 <!--   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> -->
  
   <div id="badges">
