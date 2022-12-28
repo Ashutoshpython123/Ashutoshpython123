@@ -48,11 +48,7 @@ Here are some ideas to get you started:
 -->
  </div>
  
- <!-- 
-<div>
-  <img src="https://komarev.com/ghpvc/?username=metal-oopa&style=flat-square&color=red" alt="profile-views"/>
- </div> 
--->
+ 
  
  ***
 </div>
