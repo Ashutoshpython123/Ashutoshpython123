@@ -116,7 +116,6 @@ Here are some ideas to get you started:
  <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" title="Tensorflow"  alt="Tensorflow" width="40" height="40"/>&nbsp;
  <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" title="OpenCV"  alt="OpenCV" width="40" height="40"/>&nbsp;
  <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" title="Pytorch"  alt="Pytorch" width="40" height="40"/>&nbsp;
- <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg" title="Java" alt="Java"      width="40" height="100"/>&nbsp;
 </div>
 
 </div>
@@ -124,8 +123,8 @@ Here are some ideas to get you started:
 #### Blockchain Network:
 
 <div>
- <img src="https://etherscan.io/assets/svg/logos/logo-etherscan.svg?v=0.0.5" width="40" height="40"/>&nbsp;
- <img src="https://avatars.githubusercontent.com/u/101595416?s=48&v=4" width="40" height="40"/>&nbsp;
+ <img src="https://avatars.githubusercontent.com/u/32770468?s=200&v=4" title="Binance"  width="40" height="40"/>&nbsp;
+ <img src="https://avatars.githubusercontent.com/u/101595416?s=48&v=4" title="Starknet"  width="40" height="40"/>&nbsp;
 </div>
 
 <!--START_SECTION:activity-->
