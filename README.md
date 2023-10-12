@@ -125,6 +125,7 @@ Here are some ideas to get you started:
 
 <div>
  <img src="https://etherscan.io/assets/svg/logos/logo-etherscan.svg?v=0.0.5" width="40" height="40"/>&nbsp;
+ <img src="https://avatars.githubusercontent.com/u/101595416?s=48&v=4" width="40" height="40"/>&nbsp;
 </div>
 
 <!--START_SECTION:activity-->
