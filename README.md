@@ -128,7 +128,9 @@ Here are some ideas to get you started:
  <img src="https://avatars.githubusercontent.com/u/101595416?s=48&v=4" title="Starknet"  width="40" height="40"/>&nbsp;
  <img src="https://avatars.githubusercontent.com/u/34857411?s=200&v=4" title="Tron"  width="40" height="40"/>&nbsp;
  <img src="https://avatars.githubusercontent.com/u/35608259?s=200&v=4" title="Solana"  width="40" height="40"/>&nbsp;
- <img src="https://avatars.githubusercontent.com/u/32770468?s=200&v=4" title="Venom"  width="40" height="40"/>&nbsp;
+ <img src="	https://avatars.githubusercontent.com/u/39875327?s=200&v=4" title="Ever"  width="40" height="40"/>&nbsp;
+ <img src="	https://avatars.githubusercontent.com/u/39875327?s=200&v=4" title="Venom"  width="40" height="40"/>&nbsp;
+ 
 </div>
 
 <!--START_SECTION:activity-->
