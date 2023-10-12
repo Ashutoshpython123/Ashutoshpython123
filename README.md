@@ -123,4 +123,8 @@ Here are some ideas to get you started:
 
 #### Blockchain Network:
 
+<div>
+ <img src="https://etherscan.io/assets/svg/logos/logo-etherscan.svg?v=0.0.5" width="40" height="40"/>&nbsp;
+</div>
+
 <!--START_SECTION:activity-->
