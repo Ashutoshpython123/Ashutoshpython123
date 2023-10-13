@@ -117,7 +117,7 @@ Here are some ideas to get you started:
 
 </div>
 
-#### Blockchain Network:
+### Blockchain Network:
 
 <div>
  <img src="https://avatars.githubusercontent.com/u/6250754?s=200&v=4" title="Ethereum"  width="40" height="40"/>&nbsp;
