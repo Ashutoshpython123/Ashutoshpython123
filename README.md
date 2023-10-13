@@ -86,7 +86,7 @@ Here are some ideas to get you started:
   <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python"  alt="Python" width="40" height="40"/>&nbsp;
   <img  src="https://avatars.githubusercontent.com/u/5430905?s=200&v=4" title="Rust"  alt="Rust" width="40" height="40"/>&nbsp;
   <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/solidity/solidity-original.svg" title="solidty"  alt="solidty" width="40" height="40"/>&nbsp;
-  <img  src="https://avatars.githubusercontent.com/u/59333826?s=48&v=4" title="solidty"  alt="solidty" width="40" height="40"/>&nbsp;
+  <img  src="https://avatars.githubusercontent.com/u/59333826?s=48&v=4" title="Cairo"  alt="Cairo" width="40" height="40"/>&nbsp;
   
  
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" title="React" alt="React"  width="40" height="40"/>&nbsp;
