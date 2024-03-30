@@ -1,3 +1,17 @@
+<div align="center"> 
+  <div id="badges">
+   <a href="https://www.linkedin.com/in/ashutosh-kumar-1363b0162/" target="_blank">
+     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+   </a>  
+  
+   </a>
+   <a href="https://twitter.com/Metal_Oopa_" target="_blank">
+     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+   </a>
+ </div>
+ </div>
+
+ 
 ### Hi there 👋
 I’m a Computer Science & Engineering graduate of 2020 batch. I come with an extensive experience of working with different technologies including Web Development, Blockchain, NFT, Data Science and Machine Learning.
 
@@ -8,48 +22,6 @@ Programming skills : Datastructure and Algorithm, Regular expression.
 Database : mysql, mongodb.
 
 Libraries & Framework: Node.js, Nest.js, Express.js, Next.js, React js, web3, socket.io, React Native, GraphQL, SQL, HTML, CSS, Bootstrap, tailwind.
-
-<!--
-**Ashutoshpython123/Ashutoshpython123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-<!--
-*Sudip's Github Profile*
-*Commit via github.dev
- -->
- 
-<div align="center">
-<!--   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> -->
- 
-  <div id="badges">
-   <a href="https://www.linkedin.com/in/ashutosh-kumar-1363b0162/" target="_blank">
-     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-   </a>
-   
-   <!-- 
- <a href="https://portfolio-metaloopa.vercel.app" target="_blank">
-     <img src="https://img.shields.io/badge/Personal-Website-brightgreen/?style=for-the-badge&logo=appveyor" alt="Website Badge"/>
-   </a>
-   <a href="https://twitter.com/Metal_Oopa_" target="_blank">
-     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-   </a>
--->
- </div>
- </div>
-
-
 
 <div align="left">
  
