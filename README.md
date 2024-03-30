@@ -3,7 +3,7 @@
      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
    </a>    
    </a>
-   <a href="https://twitter.com/Metal_Oopa_" target="_blank">
+   <a href="https://twitter.com/Ashutosh_maury7s" target="_blank">
      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
    </a>
  </div>
