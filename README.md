@@ -47,15 +47,6 @@ Here are some ideas to get you started:
    </a>
 -->
  </div>
- 
- 
- 
-</div>
-<div align="center">
-  <h1>
-   Hey there! 👋🏻
-  </h1>
- </div>
 
 
 
