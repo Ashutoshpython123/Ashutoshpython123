@@ -47,18 +47,11 @@ Here are some ideas to get you started:
    </a>
 -->
  </div>
-
- </div>
-<div align="center">
-  <h1>
-   Hey there! 👋🏻
-  </h1>
  </div>
 
 
 
 <div align="left">
-
 ### I am a Full Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and a Blockchain Developer. A huge AI enthusiast.
 
 ###  👨🏻‍💻 About Me :
@@ -118,12 +111,10 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" alt="Kubernetes"  width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg"  title="Git"  alt="Git"  width="40"  height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg"  title="Bash"  alt="Bash"  width="40"  height="40"/>&nbsp;
- 
 
 
  
 </div>
-
 </div>
 
 ### Blockchain Network:
