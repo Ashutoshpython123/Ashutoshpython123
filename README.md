@@ -13,7 +13,10 @@
 I’m a Computer Science & Engineering graduate of 2020 batch. I come with an extensive experience of working with different technologies including Web Development, Blockchain, NFT, Data Science and Machine Learning.
 
 ### Things I'm good at 🔥
-Languages: Python, JavaScript, Solidity, Rust  Programming skills : Datastructure and Algorithm, Regular expression. Database : mysql, mongodb.  Libraries & Framework: Node.js, Nest.js, Express.js, Next.js, React js, web3, socket.io, React Native, GraphQL, SQL, HTML, CSS, Bootstrap, tailwind.
+Languages: Python, JavaScript, Solidity, Rust  
+Programming skills : Datastructure and Algorithm, Regular expression. 
+Database : mysql, mongodb.  
+Libraries & Framework: Node.js, Nest.js, Express.js, Next.js, React js, web3, socket.io, React Native, GraphQL, SQL, HTML, CSS, Bootstrap, tailwind.
 
 <div align="left">
  
