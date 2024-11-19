@@ -29,7 +29,6 @@ Libraries & Framework: Node.js, Nest.js, Express.js, Next.js, React js, web3, so
 - #### 🌱 I’m currently exploring **Hyperledger Fabric**.
 - #### 👯 I’m looking to collaborate on *Open Source Projects*
 - #### 💬 I am fast to respond and would love to grow my network.
-- #### 📫 How to reach me: You can DM me on [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ashutosh-kumar-1363b0162)
 - #### 🏢 *Open to opportunities*
 - #### 😄 Pronouns: He/Him
 - #### ⚡ Favorite Anime: Steins;Gate
